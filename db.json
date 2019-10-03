@@ -1,14 +1,26 @@
-[
-  {
-    "id": 1,
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "title": "Post 3"
-  }
-]
+"Category": [
+    {
+      "id": "00001",
+      "name": "FOOTBALL",
+      "description": "FOOTBALL ",
+      "p_code": "F000011"
+    },
+    {
+      "id": "00002",
+      "name": "TENNIS",
+      "description": "TENNIS",
+      "p_code": "T00001"
+    },
+    {
+      "id": "00059",
+      "name": "Cricket",
+      "description": "--",
+      "p_code": "--"
+    },
+    {
+      "id": "00025",
+      "name": "Boxing",
+      "description": "asdfa",
+      "p_code": "xcvzxcv"
+    }
+  ]

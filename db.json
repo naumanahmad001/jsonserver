@@ -1,9 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "Category": [
+    {
+      "id": "00001",
+      "name": "FOOTBALL",
+      "description": "FOOTBALL ",
+      "p_code": "F000011"
+    },
+    {
+      "id": "00002",
+      "name": "TENNIS",
+      "description": "TENNIS",
+      "p_code": "T00001"
+    }
+  ]
 }

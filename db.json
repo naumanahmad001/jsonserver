@@ -1,86 +1,9 @@
 {
-  "Category": [
-    {
-      "id": "00001",
-      "name": "FOOTBALL",
-      "description": "FOOTBALL ",
-      "p_code": "F000011"
-    },
-    {
-      "id": "00002",
-      "name": "TENNIS",
-      "description": "TENNIS",
-      "p_code": "T00001"
-    },
-    {
-      "id": "00059",
-      "name": "Cricket",
-      "description": "--",
-      "p_code": "--"
-    },
-    {
-      "id": "00025",
-      "name": "Boxing",
-      "description": "asdfa",
-      "p_code": "xcvzxcv"
-    }
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
   ],
-  "Product": [
-    {
-      "id": "00002",
-      "name": "Light House",
-      "description": "aaa",
-      "path": "Lighthouse_00002_00001.jpg",
-      "cat_id": "00001"
-    },
-    {
-      "id": "00003",
-      "name": "teset",
-      "description": "asdfadsfadf",
-      "path": "Desert_00003_00001.jpg",
-      "cat_id": "00001"
-    },
-    {
-      "id": "00066",
-      "name": "adfff",
-      "description": "sdfsdf",
-      "path": "Koala_00066_00001.jpg",
-      "cat_id": "00001"
-    },
-    {
-      "id": "00001",
-      "name": "test",
-      "description": "testets",
-      "path": "Chrysanthemum_00001_00002.jpg",
-      "cat_id": "00002"
-    },
-    {
-      "id": "11002",
-      "name": "rsett",
-      "description": "sdfsdf",
-      "path": "Hydrangeas_11002_00002.jpg",
-      "cat_id": "00002"
-    },
-    {
-      "id": "66655",
-      "name": "Jacket",
-      "description": "xcvzx",
-      "path": "Penguins_66655_00001.jpg",
-      "cat_id": "00001"
-    },
-    {
-      "id": "00099",
-      "name": "test 1",
-      "description": "teset ",
-      "path": "Tulips_00099_00059.jpg",
-      "cat_id": "00059"
-    },
-    {
-      "id": "0011236",
-      "name": "test",
-      "description": "test tt",
-      "path": "Penguins_0011236_00025.jpg",
-      "cat_id": "00025"
-    }
-  ]
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
